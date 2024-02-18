@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fresh Fruit</string>
+
+    <string name="details">Detaylar</string>
+    <string name="price_kg_text">12.0 ₺/kg</string>
+    <string name="title_text">Taze Çilek</string>
+    <string name="plus_button">+</string>
+    <string name="weight_text">2 kg</string>
+    <string name="minus_button">-</string>
+    <string name="description">Açıklama</string>
+    <string name="description_text">Lezzetli ve besleyici bir tat olan çileğin iyiliğinin tadını çıkarın. İster tek başına ister yemeklerin içinde tüketin, bu kırmızı cevherler C vitamini, antioksidanlar ve doğal tatlılık sunar.</string>
+    <string name="add_to_cart">Sepete Ekle</string>
+    <string name="total_price">Toplam Fiyat</string>
+    <string name="total_text">24.0 ₺</string>
+
+</resources>

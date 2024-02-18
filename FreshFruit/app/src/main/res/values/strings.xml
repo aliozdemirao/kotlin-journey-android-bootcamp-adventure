@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fresh Fruit</string>
+
+    <string name="details">Details</string>
+    <string name="price_kg_text">$12.0/kg</string>
+    <string name="title_text">Fresh Strawberry</string>
+    <string name="plus_button">+</string>
+    <string name="weight_text">2 kg</string>
+    <string name="minus_button">-</string>
+    <string name="description">Description</string>
+    <string name="description_text">Indulge in the goodness of strawberries, a delicious and nutritious delight. Whether enjoyed on their own or in dishes, these red gems offer vitamin C, antioxidants and natural sweetness.</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="total_price">Total Price</string>
+    <string name="total_text">$ 24.0</string>
+
+</resources>
