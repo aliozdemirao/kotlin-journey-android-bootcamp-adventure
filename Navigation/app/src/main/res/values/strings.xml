@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Navigation</string>
+
+    <string name="tv_page_home">HOME</string>
+    <string name="tv_page_a">PAGE A</string>
+    <string name="tv_page_b">PAGE B</string>
+    <string name="tv_page_x">PAGE X</string>
+    <string name="tv_page_y">PAGE Y</string>
+
+    <string name="btn_page_home_a">GO -> A</string>
+    <string name="btn_page_home_x">GO -> X</string>
+    <string name="btn_page_a">GO -> B</string>
+    <string name="btn_page_b">GO -> Y</string>
+    <string name="btn_page_x">GO -> Y</string>
+
+</resources>

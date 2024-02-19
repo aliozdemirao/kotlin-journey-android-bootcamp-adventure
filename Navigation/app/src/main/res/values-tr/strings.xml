@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Navigation</string>
+
+    <string name="tv_page_home">ANASAYFA</string>
+    <string name="tv_page_a">SAYFA A</string>
+    <string name="tv_page_b">SAYFA B</string>
+    <string name="tv_page_x">SAYFA X</string>
+    <string name="tv_page_y">SAYFA Y</string>
+
+    <string name="btn_page_home_a">GİT -> A</string>
+    <string name="btn_page_home_x">GİT -> X</string>
+    <string name="btn_page_a">GİT -> B</string>
+    <string name="btn_page_b">GİT -> Y</string>
+    <string name="btn_page_x">GİT -> Y</string>
+
+</resources>
