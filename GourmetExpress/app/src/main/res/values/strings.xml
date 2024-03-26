@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gourmet Express</string>
+
+    <string name="title_bottom_nav_bar_1">Home</string>
+    <string name="title_bottom_nav_bar_2">Favorites</string>
+    <string name="title_bottom_nav_bar_3">Cart</string>
+
+    <string name="sort_price_asc">Price Low-High</string>
+    <string name="sort_price_desc">Price High-Low</string>
+
+    <string name="currency_symbol">$%d</string>
+</resources>
